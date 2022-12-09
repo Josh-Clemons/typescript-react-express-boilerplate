@@ -5,6 +5,9 @@
 # React Build Directory
 build/
 
+# Compiled TS
+dist/
+
 # Logs
 logs
 *.log
